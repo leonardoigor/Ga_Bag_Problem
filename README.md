@@ -1,4 +1,4 @@
-# Bad Problem Genetic Algothm (Knapsack problem)
+# Problem Genetic Algothm (Knapsack problem)
 
 ![alt text](https://github.com/leonardoigor/Ga_Bag_Problem/blob/main/assets/bag.png?raw=true)
 
