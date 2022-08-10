@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ga_Bag_Problem.Game/1.0.0": {
+        "dependencies": {
+          "Ga_Bag_Problem.Ga": "1.0.0"
+        },
+        "runtime": {
+          "Ga_Bag_Problem.Game.dll": {}
+        }
+      },
+      "Ga_Bag_Problem.Ga/1.0.0": {
+        "runtime": {
+          "Ga_Bag_Problem.Ga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ga_Bag_Problem.Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ga_Bag_Problem.Ga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\igor_\OneDrive\Área de Trabalho\projetos\Ga_Bag_Problem\Ga_Bag_Problem.Ga\bin\Debug\net6.0\Ga_Bag_Problem.Ga.deps.json
+C:\Users\igor_\OneDrive\Área de Trabalho\projetos\Ga_Bag_Problem\Ga_Bag_Problem.Ga\bin\Debug\net6.0\Ga_Bag_Problem.Ga.dll
+C:\Users\igor_\OneDrive\Área de Trabalho\projetos\Ga_Bag_Problem\Ga_Bag_Problem.Ga\bin\Debug\net6.0\Ga_Bag_Problem.Ga.pdb
+C:\Users\igor_\OneDrive\Área de Trabalho\projetos\Ga_Bag_Problem\Ga_Bag_Problem.Ga\obj\Debug\net6.0\Ga_Bag_Problem.Ga.csproj.AssemblyReference.cache
+C:\Users\igor_\OneDrive\Área de Trabalho\projetos\Ga_Bag_Problem\Ga_Bag_Problem.Ga\obj\Debug\net6.0\Ga_Bag_Problem.Ga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor_\OneDrive\Área de Trabalho\projetos\Ga_Bag_Problem\Ga_Bag_Problem.Ga\obj\Debug\net6.0\Ga_Bag_Problem.Ga.AssemblyInfoInputs.cache
+C:\Users\igor_\OneDrive\Área de Trabalho\projetos\Ga_Bag_Problem\Ga_Bag_Problem.Ga\obj\Debug\net6.0\Ga_Bag_Problem.Ga.AssemblyInfo.cs
+C:\Users\igor_\OneDrive\Área de Trabalho\projetos\Ga_Bag_Problem\Ga_Bag_Problem.Ga\obj\Debug\net6.0\Ga_Bag_Problem.Ga.csproj.CoreCompileInputs.cache
+C:\Users\igor_\OneDrive\Área de Trabalho\projetos\Ga_Bag_Problem\Ga_Bag_Problem.Ga\obj\Debug\net6.0\Ga_Bag_Problem.Ga.dll
+C:\Users\igor_\OneDrive\Área de Trabalho\projetos\Ga_Bag_Problem\Ga_Bag_Problem.Ga\obj\Debug\net6.0\refint\Ga_Bag_Problem.Ga.dll
+C:\Users\igor_\OneDrive\Área de Trabalho\projetos\Ga_Bag_Problem\Ga_Bag_Problem.Ga\obj\Debug\net6.0\Ga_Bag_Problem.Ga.pdb
+C:\Users\igor_\OneDrive\Área de Trabalho\projetos\Ga_Bag_Problem\Ga_Bag_Problem.Ga\obj\Debug\net6.0\ref\Ga_Bag_Problem.Ga.dll

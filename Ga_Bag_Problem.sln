@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ga_Bag_Problem.Ga", "Ga_Bag_Problem.Ga\Ga_Bag_Problem.Ga.csproj", "{CF820319-4158-44ED-80E4-F2AA29A763C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ga_Bag_Problem.Game", "Ga_Bag_Problem.Game\Ga_Bag_Problem.Game.csproj", "{BD54CD0C-A9FD-4E5B-A228-769CBED62829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF820319-4158-44ED-80E4-F2AA29A763C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF820319-4158-44ED-80E4-F2AA29A763C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF820319-4158-44ED-80E4-F2AA29A763C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF820319-4158-44ED-80E4-F2AA29A763C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD54CD0C-A9FD-4E5B-A228-769CBED62829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD54CD0C-A9FD-4E5B-A228-769CBED62829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD54CD0C-A9FD-4E5B-A228-769CBED62829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD54CD0C-A9FD-4E5B-A228-769CBED62829}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E491E5-9DD7-4AF7-BCC5-70F2B59F62C7}
+	EndGlobalSection
+EndGlobal

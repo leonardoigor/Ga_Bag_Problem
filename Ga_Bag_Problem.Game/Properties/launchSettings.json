@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Ga_Bag_Problem.Game": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
